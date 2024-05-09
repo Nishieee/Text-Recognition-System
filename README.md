@@ -4,14 +4,6 @@
 ## Project Overview
 This project, titled "Handwritten Text Recognition using Machine Learning Techniques," was undertaken to develop a system capable of recognizing handwritten text and converting it into a digital format. The project was submitted in partial fulfillment of the requirements for the Bachelor of Engineering degree in Computer Engineering at Thadomal Shahani Engineering College, University of Mumbai.
 
-## Team Members
-- Nishita Matlani
-- Shanvi Mehta
-- Isha Mehta
-
-## Supervisor
-- Dr. Jayant Gadge
-
 ## Project Description
 Handwritten Text Recognition (HTR) systems are crucial for digitizing written documents in a readable and editable format. This technology plays a significant role in various fields such as healthcare, banking, and legal sectors, where handwritten documents are still prevalent.
 
