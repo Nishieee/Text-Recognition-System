@@ -34,6 +34,18 @@ The system utilizes a combination of Convolutional Neural Networks (CNNs) and Re
 4. **Sequence Labeling**: Employing LSTM to handle sequences in the data.
 5. **Transcription**: Converting the recognized characters into textual output.
 
+![System Architecture](https://github.com/Nishieee/Text-Recognition-System/blob/main/images/architecture_HTR.png)
+
+
+## Block Diagram
+![Block Diagram - Flow](https://github.com/Nishieee/Text-Recognition-System/blob/main/images/Block_Diagram.png)
+
+## Interface Images 
+![GUI](https://github.com/Nishieee/Text-Recognition-System/blob/main/images/Interafce_1.png)
+
+## Output 
+![Ooutput image](https://github.com/Nishieee/Text-Recognition-System/blob/main/images/Interface_output_2.png)
+
 
 
 ## Repository Structure
